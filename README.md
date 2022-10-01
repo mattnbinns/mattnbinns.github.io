@@ -8,7 +8,7 @@
 ## Code 102 Notes
 ### Class 01
 #### Growth Mindset
-- To me, a growth mindset is defined as having a strong belief in yourself to overcome challenges presented to you. 
+- To me, growth mindset is defined as having a strong belief in yourself to overcome challenges presented to you. 
 #### My Growth Mindset Reminder
 1. **Write** my goals down and review it daily.
 2. **Stratigize** a plan that will get me to my goals.
