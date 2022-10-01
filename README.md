@@ -3,7 +3,11 @@ Hello Code Fellow classmates, welcom to my Reading Notes Page. My name is Matthe
 ## 102 Notes
 ### Class 01
 #### Growth Mindset
-
+- To me, a growth mindset is defined as having a strong belief in yourself to overcome challenges presented to you. 
+My Growth Mindset Accountablity
+1. Write my goals down and review it daily.
+2. Stratigize a plan that will get me to my goals.
+3. Execute this plan everyday.
 ### Class 02
 ### Class 03
 ### Class 04
