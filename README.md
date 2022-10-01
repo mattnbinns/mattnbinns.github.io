@@ -6,9 +6,9 @@
 #### Growth Mindset
 - To me, a growth mindset is defined as having a strong belief in yourself to overcome challenges presented to you. 
 #### My Growth Mindset Reminder
-- Write my goals down and review it daily.
-- Stratigize a plan that will get me to my goals.
-- Execute this plan everyday.
+1. Write my**goals**down and review it**daily**.
+2. **Stratigize** a plan that will get me to my goals.
+3. **Execute** this plan **everyday**.
 ### Class 02
 ### Class 03
 ### Class 04
