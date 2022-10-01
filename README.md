@@ -3,7 +3,6 @@
 > Tech industry as a Software Developer. I am looking forward to being able to connect with you all on this journey. 
 ## Code 102 Notes
 ### Class 01
-***
 #### Growth Mindset
 - To me, a growth mindset is defined as having a strong belief in yourself to overcome challenges presented to you. 
 #### My Growth Mindset Reminder
