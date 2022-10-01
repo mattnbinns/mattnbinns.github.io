@@ -13,5 +13,3 @@
 1. **Write** my goals down and review it daily.
 2. **Stratigize** a plan that will get me to my goals.
 3. **Execute** this plan everyday.
-### Class 02
-
