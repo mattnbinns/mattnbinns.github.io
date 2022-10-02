@@ -26,4 +26,6 @@ To italicize text add **ONLY** one astrisk **OR** underscore before and after a 
 #### What If I Want To Italicize And Bold My Text?
 So what happens when you want to both italicize and bold your text? What do you do? To italicize and bold your text you **MUST** use three astrisks before and after the word. If you want this to be done a word in the middle, the same rule would apply. 
 ### Blockquotes
-> To create a blockquote, simply add a ( > ) sign in front of the paragraph. 
+> To create a blockquote like this, simply add a ( > ) sign in front of the paragraph. If there are multiple paragraphs, then add a ( > ) in front of all
+> paragraphs and blank lines.
+>> Blockquotes can also be nested. To do this add ( >> ) in front of the paragraph. 
