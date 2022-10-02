@@ -19,3 +19,7 @@ To create a line break or new line, there are two options:
 To bold your text in Markdown, you may either use two astrisks  ( ** ) before and after the word or phrase without any spaces. Or you can use the underscore sign ( _ ) before and after the word of phrase without any spaces. 
 
 **Key Note:** If you want bold a text that happens to be in the middle, use astrisks **NOT** underscores.  
+### Italicizing Text
+To italicize text add **ONLY** one astrisk **OR** underscore before and after a word. 
+
+**Key Notes** If you want to italicize a text that happens to be in the middle, use an astrisk **NOT** a underscore.
