@@ -12,6 +12,6 @@ To create a paragraph in markdown, simply use one or more blank lines between th
 To create a line break or new line, there are two options:
 
 1. Use two or more space, then hit enter or return on your keyboard.
-2. Use HTML element tag < br >)
+2. Use HTML element tag < br >
 
-**Key Note:** The (<br>) element tag can **ONLY** be used if your Markdown application supports HTML. 
+**Key Note:** The < br > element tag can **ONLY** be used if your Markdown application supports HTML. 
