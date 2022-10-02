@@ -25,3 +25,5 @@ To italicize text add **ONLY** one astrisk **OR** underscore before and after a 
 **Key Note:** If you want to italicize a text that happens to be in the middle, use an astrisk **NOT** a underscore.
 #### What If I Want To Italicize And Bold My Text?
 So what happens when you want to both italicize and bold your text? What do you do? To italicize and bold your text you **MUST** use three astrisks before and after the word. If you want this to be done a word in the middle, the same rule would apply. 
+### Blockquotes
+> To create a blockquote, simply add a ( > ) sign in front of the paragraph. 
