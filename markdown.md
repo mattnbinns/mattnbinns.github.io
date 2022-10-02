@@ -28,4 +28,8 @@ So what happens when you want to both italicize and bold your text? What do you 
 ### Blockquotes
 > To create a blockquote like this, simply add a ( > ) sign in front of the paragraph. If there are multiple paragraphs, then add a ( > ) in front of all
 > paragraphs and blank lines.
->> Blockquotes can also be nested. To do this add ( >> ) in front of the paragraph. 
+>> Blockquotes can also be nested together like this. To do this add ( >> ) in front of the paragraph. 
+
+### Lists
+#### Ordered List
+
