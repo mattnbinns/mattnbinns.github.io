@@ -22,4 +22,6 @@ To bold your text in Markdown, you may either use two astrisks  ( ** ) before an
 ### Italicizing Text
 To italicize text add **ONLY** one astrisk **OR** underscore before and after a word. 
 
-**Key Notes** If you want to italicize a text that happens to be in the middle, use an astrisk **NOT** a underscore.
+**Key Note:** If you want to italicize a text that happens to be in the middle, use an astrisk **NOT** a underscore.
+#### What If I Want To Italicize And Bold My Text?
+
