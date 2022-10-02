@@ -6,4 +6,5 @@ Headings are created using the number sign (#). Just like how we used headings a
 **Key Note:** Ensure that there is a space between the number sign (#) and the text. 
 ### Paragraphs
 To create a paragraph in markdown, simply use one or more blank lines between the lines of text. 
+
 **Key Note:** It is important to note that you **DO NOT** indent your paragraphs with a space or using the tab key. 
