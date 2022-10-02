@@ -8,3 +8,10 @@ Headings are created using the number sign (#). Just like how we used headings a
 To create a paragraph in markdown, simply use one or more blank lines between the lines of text. 
 
 **Key Note:** It is important to note that you **DO NOT** indent your paragraphs with a space or using the tab key. 
+### Line Breaks
+To create a line break or new line, there are two options:
+
+1. Use two or more space, then hit enter or return on your keyboard.
+2. Use HTML element tag (<br>)
+
+**Key Note:** The (<br>) element tag can **ONLY** be used if your Markdown application supports HTML. 
