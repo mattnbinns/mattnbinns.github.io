@@ -40,5 +40,5 @@ An unordered list is the opposite of an ordered list and it is organized in bull
 
 **Key Note:** If you would like to nest items within a list simply add a indent. 
 ### Horizontal Rule
-A horizontal rule is essentially a horizontal line going across the screen. To create a horizontal rule, use three or more astricks, dashes, or underscores on a line by themselves. 
+A horizontal rule is essentially a horizontal line going across the screen of a page. To create a horizontal rule, use three or more astricks, dashes, or underscores on a line by themselves. 
 
