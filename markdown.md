@@ -32,4 +32,11 @@ So what happens when you want to both italicize and bold your text? What do you 
 
 ### Lists
 #### Ordered List
+An order list, is a list organize in a numeric fashion. To start, add lines with numbers follow by a period. 
+
+**Key Note:** The numbers **DO NOT** have to be in numerical order **BUT** the list should start with number one.
+#### Underordered List
+An unordered list is the opposite of an ordered list and it is organized in bullet point format. To start, add lines with dashes, astrisks, or plus signs.
+
+**Key Note:** If you would like to nest items within a list simply add a indent. 
 
