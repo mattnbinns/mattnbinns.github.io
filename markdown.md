@@ -15,3 +15,7 @@ To create a line break or new line, there are two options:
 2. Use HTML element tag < br >
 
 **Key Note:** The < br > element tag can **ONLY** be used if your Markdown application supports HTML. 
+### Bolding Text
+To bold your text in Markdown, you may either use two astrisks  ( ** ) before and after the word or phrase without any spaces. Or you can use the underscore sign ( _ ) before and after the word of phrase without any spaces. 
+
+**Key Note:** If you want bold a text that happens to be in the middle, use astrisks **NOT** underscores.  
