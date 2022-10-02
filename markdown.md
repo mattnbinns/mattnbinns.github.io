@@ -35,8 +35,10 @@ So what happens when you want to both italicize and bold your text? What do you 
 An order list, is a list organize in a numeric fashion. To start, add lines with numbers follow by a period. 
 
 **Key Note:** The numbers **DO NOT** have to be in numerical order **BUT** the list should start with number one.
-#### Underordered List
+#### Undordered List
 An unordered list is the opposite of an ordered list and it is organized in bullet point format. To start, add lines with dashes, astrisks, or plus signs.
 
 **Key Note:** If you would like to nest items within a list simply add a indent. 
+**Horizontal Rules**
+A horizontal rule is essentially a horizontal line going across the screen. To create a horizontal rule, use three or more astricks, dashes, or underscores on a line by themselves. 
 
