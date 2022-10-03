@@ -46,4 +46,8 @@ To create a link, type in the title you would like the link to be labeled inside
 
 **Key Note** If the URL link has any spaces in the middle, replace the space with %20. 
 
+### Images
+To add a image in Markup, start with a exclamation mark ( ! ) followed by an alternative text in brackets. Alternative text will only be displayed in the case your image doesn't display on your site. After typing in the alt text, include the URL in parentheses. 
+
+
 
