@@ -37,6 +37,8 @@ An order list, is a list organize in a numeric fashion. To start, add lines with
 **Key Note:** The numbers **DO NOT** have to be in numerical order **BUT** the list should start with number one.
 #### Undordered List
 An unordered list is the opposite of an ordered list and it is organized in bullet point format. To start, add lines with dashes, astrisks, or plus signs.
+#### Task List
+To create a task list that can be checked, begin each list item with a dash followed by brackets ( [ ] ). To mark a task complete type [ x ].
 
 **Key Note:** If you would like to nest items within a list simply add a indent. 
 ### Horizontal Rule
