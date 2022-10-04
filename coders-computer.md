@@ -14,3 +14,7 @@ Using extension simply just allows you to add other cool features that you can u
 ## Command Line
 ### What Is A Command Line?
 A command line or terminal is an interface that allows you to enter in specific commands and recieve feedback. Imagine the command line being almost similar to your file expolorer. You are able to create folders, files, and navigate within them. All and more can be done with the command line as well. 
+### Commonly Used Commands
+* pwd - (print working directory) displays where you are working currently
+* ls - (list) list the contents within a directory
+* cd - (change directory) allows you to navigate to different directories a.k.a folders
