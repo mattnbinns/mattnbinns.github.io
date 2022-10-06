@@ -18,5 +18,5 @@ A command line or terminal is an interface that allows you to enter in specific 
 * pwd - (print working directory) displays where you are working currently
 * ls - (list) list the contents within a directory
 * cd - (change directory) allows you to navigate to different directories a.k.a folders
-* ls a - (list all) displays all contents within a directory including hidden files
+* ls -a - (list all) displays all contents within a directory including hidden files
  
