@@ -1,16 +1,17 @@
-# My Reading Notes
-> Hello Code Fellow classmates, welcome to my Reading Notes Page. My name is Matthew Binns and I am a U.S Navy Veteran. My goal is to transition into the 
-> Tech industry as a Software Developer. I am looking forward to being able to connect with you all during this journey! 
+# My Reading Notes Journal
 
-[My Profile](https://github.com/mattnbinns)
+> Hello, welcome to my Reading Notes Journal. My name is Matthew Binns and I am a U.S Navy Veteran. My goal is to transition into the
+> Tech industry as a Software Developer. I am looking forward to seeing how much I am able to learn and add to this journal as I continue on this journey!
 
+[My GitHub Portfolio](https://github.com/mattnbinns)
 
-## Code 102 Notes
-### Class 01
-#### Growth Mindset
-- To me, growth mindset is defined as having a strong belief in yourself to overcome challenges presented to you. 
-#### My Growth Mindset Reminder
-1. **Write** my goals down and review it daily.
-2. **Stratigize** a plan that will get me to my goals.
-3. **Execute** this plan everyday.
+## Code 102 - Introduction to Software Development
 
+### Table of Contents
+
+* Class 1
+  * [Growth Mindset](/code102/growthmindset.md)
+  * [Learning Markdown](/code102/class1.md)
+* Class 2
+  * [The Coder's Computer](/code102/class2.md)
+  
